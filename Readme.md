@@ -1,1 +1,3 @@
-Olá esse é meu treinamento em GIT
+Olá esse é meu treinamento em GIT. 
+
+Primeiro Teste.
